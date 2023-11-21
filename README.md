@@ -1,1 +1,1 @@
-
+This is Tomáš Šamaj's (student ID: 36902772) repository for the submission of the midterm exam of Data Processing in Python at IES.
